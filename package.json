@@ -3,16 +3,16 @@
   "version": "1.1.1",
   "displayName": "Custom Package Test",
   "description": "This is an example package",
- 
+ 	"repository": {
+    "url": "https://github.com/fly-xu1/custompackage.git",
+    "type": "git"
+  },
     "samples": [
         {
             "displayName": "custompackageTest",
             "description": "the is custompackagetest",
             "path": "Samples~/Test"
         }
-    ],
-     "repository": {
-    "url": "https://github.com/fly-xu1/custompackage.git",
-    "type": "git",
-  }
+    ]
+     
 }
