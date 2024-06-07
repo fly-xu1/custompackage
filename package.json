@@ -10,5 +10,9 @@
             "description": "the is custompackagetest",
             "path": "Samples~/Test"
         }
-    ]
+    ],
+     "repository": {
+    "url": "https://github.com/fly-xu1/custompackage.git",
+    "type": "git",
+  }
 }
